@@ -1,0 +1,17 @@
+Key requirements:
+
+-Bilingual support - This organization is global
+-Redundancy of data
+-Incorporate images/icons - very user friendly
+-UI/UX design is IMPORTANT
+
+Challenges they face:
+
+-Much data is on paper
+-Data gets lost
+
+Questions to ask:
+
+-What kind of data are they collecting?
+-Who are you contacting in the field about potential slavery incidents?
+-How do you draw conclusions from data?
